@@ -1,0 +1,3 @@
+func(){
+		fmt.Println(<-c)
+	}()
